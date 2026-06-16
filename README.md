@@ -1,4 +1,4 @@
-# VC Line Practice Utility (EN/JP)
+# VC_LinePracticeUtil (EN/JP)
 
 Same concept as yuyu's original, rebuilt from scratch with bug fixes and JP 1.0 support.
 
